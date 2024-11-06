@@ -1,10 +1,6 @@
-Here is a detailed README template for your SQL Mentor user performance analysis project:
+# SQL Mentor User Performance Analysis | Project No.10
 
----
-
-# SQL Mentor User Performance Analysis
-
-![SQL Data Analytics](sandbox:/mnt/data/A_clean_and_professional_image_for_a_SQL_data_anal.png)
+![SQL Data Analytics](https://github.com/najirh/sql-project-10---sql-mentor-datasets/blob/main/Unknown-5.jpg)
 
 ## Project Overview
 
@@ -149,8 +145,3 @@ WHERE rank <= 10;
 ## Conclusion
 
 This project provides an excellent opportunity for beginners to apply their SQL knowledge to solve practical data problems. By working through these SQL queries, you'll gain hands-on experience with data aggregation, ranking, date manipulation, and conditional logic.
-
----
-
-**Feel free to explore the project, modify queries, and experiment with the data to build a deeper understanding of SQL in data analytics. Happy learning!**
-
